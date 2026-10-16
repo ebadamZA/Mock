@@ -1,4 +1,4 @@
-# Activity: Build a Simple Counter App
+# Build a Simple Counter App
 
 ## Activity Objectives
 By the end of this activity, you should be able to:
